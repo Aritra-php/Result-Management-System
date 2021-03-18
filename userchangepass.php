@@ -9,6 +9,8 @@ if(!$conn)
 {
 die("Connection Failed");
 echo"Hi Arita";
+echo"Hi Arita";
+echo"Hi Arita";
 }
 ?>
 <!--------------End php code for database connection-------------->
