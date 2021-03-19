@@ -8,9 +8,6 @@ $conn=mysqli_connect($db_host,$db_user,$db_pass,$db_name);
 if(!$conn)
 {
 die("Connection Failed");
-echo"Hi Arita";
-echo"Hi Arita";
-echo"Hi Arita";
 }
 ?>
 <!--------------End php code for database connection-------------->
